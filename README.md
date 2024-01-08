@@ -1,6 +1,6 @@
 # Author
 
-- [x] `Hasibul Islam`: [Click Here](https://bento.me/devhasibulislam)
+- [x] `Hasibul Islam`: [Learn More](https://bento.me/devhasibulislam)
 
 # Important Links
 
