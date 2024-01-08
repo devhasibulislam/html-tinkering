@@ -1,0 +1,12 @@
+Image inside text | text clipping | text masking | masking effect
+
+Photo inside text using html and css which also known as text masking or clipping text. Mostly used in PowerPoint slide but at industry level websites also use it.
+
+Project Source Code: https://github.com/devhasibulislam/html-tinkering
+Project Live Share Link: https://devhasibulislam.github.io/html-tinkering/text-masking.html
+
+For any query or want to connect: https://bento.me/devhasibulislam
+
+#textmasking #imageinsidetext #texteffect #clippingmask #phototextmasking #csstextmask #htmlcss #textmaskingvideo #textmaskingphoto #photoshopdesigns
+
+text masking, image inside text, text effect, clipping mask, photo text masking effect, css text mask, text masking html css, text masking video, text masking photo, photoshop

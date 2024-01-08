@@ -4,5 +4,5 @@
 
 # Important Links
 
-- [x] Photo Text Masking - [Click Here](https://devhasibulislam.github.io/html-tinkering/photo-text-masking.html)
-- [x] Glassmorphism Effect - [Click Here](https://devhasibulislam.github.io/html-tinkering/glassmorphism.html)
+- [x] Photo Text Masking - [Click Here](https://devhasibulislam.github.io/html-tinkering/photo-text-masking/photo-text-masking.html)
+- [x] Glassmorphism Effect - [Click Here](https://devhasibulislam.github.io/html-tinkering/glassmorphism/glassmorphism.html)
